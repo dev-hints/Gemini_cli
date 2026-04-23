@@ -2,6 +2,8 @@
 
 A lightweight, purely terminal-based AI chatbot built entirely in Bash. It features a sleek "hacker/cosmic" aesthetic with neon colors, typing animations, and custom UI components right in your console, all powered by the Google Gemini API.
 
+![description](https://github.com/dev-hints/Gemini_cli/blob/main/img.png)
+
 ## Features
 
 - **Hacker Aesthetic:** Enjoy matrix-style text loading, cosmic background animations, and custom terminal frames.
